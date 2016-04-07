@@ -1,3 +1,21 @@
+# Android Vision API Samples
+Android 相機 人臉偵測 :memo:
+
+## 說明
+* FaceTracker <br>
+覺得蠻有趣的，就隨手記錄了一下:memo:。<br>
+這個範例程式會開啟手機的相機，然後透過相機進行人臉偵測，<br>
+會偵測<b> 左右眼是否睜開眼睛 </b>以及<b> 是否有微笑 </b> ( 數值最高為1 ) <br>
+測試的手機為三星note2，Android 版本為 4.4.4<br>
+我將它匯出成 APK，方便大家使用 ( 就不用再打開Android Studio重新編譯 ) <br>
+apk下載點:  [FaceTracker.apk](https://app.box.com/s/n89v3jl02uq6urh9cp4i226cy0hbwvcc)<br>
+以下圖片為在自己手機上的 demo<br>
+![alt tag](http://i.imgur.com/wfhE0xw.png)
+![alt tag](http://i.imgur.com/Y6VkfFS.png)
+![alt tag](http://i.imgur.com/kSOyE1l.jpg)<br>
+辨識率蠻精準的，多人也是可以成功的辨識出來<br>
+更多可參考 [官網](https://developers.google.com/vision/face-detection-concepts#face_orientation)的說明<br>
+
 Android Vision API Samples
 ============
 
